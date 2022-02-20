@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="YarpuzPansiyonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AdminGiris">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullaniciAdi" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Sifre" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="AlinanUrunler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Icecek" Type="int" />
+    <Property Name="Gida" Type="int" />
+    <Property Name="Cerezler" Type="int" />
+  </EntityType>
+  <EntityType Name="Faturalar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Elektrik" Type="int" />
+    <Property Name="Su" Type="int" />
+    <Property Name="Internet" Type="int" />
+  </EntityType>
+  <EntityType Name="Mesajlar">
+    <Key>
+      <PropertyRef Name="MesajId" />
+    </Key>
+    <Property Name="MesajId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="varchar" MaxLength="50" />
+    <Property Name="Mesaj" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="MusteriEkle">
+    <Key>
+      <PropertyRef Name="MusteriId" />
+    </Key>
+    <Property Name="MusteriId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+    <Property Name="Cinsiyet" Type="varchar" MaxLength="5" />
+    <Property Name="Telefon" Type="varchar" MaxLength="15" />
+    <Property Name="Mail" Type="varchar" MaxLength="40" />
+    <Property Name="TC" Type="varchar" MaxLength="12" />
+    <Property Name="OdaNo" Type="varchar" MaxLength="5" />
+    <Property Name="Ucret" Type="int" />
+    <Property Name="GirisTarihi" Type="date" />
+    <Property Name="CikisTarihi" Type="date" />
+  </EntityType>
+  <EntityType Name="Oda101">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="30" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda102">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda103">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda104">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda105">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda106">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda107">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda108">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Oda109">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="varchar" MaxLength="20" />
+    <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityContainer Name="YarpuzPansiyonModelStoreContainer">
+    <EntitySet Name="AdminGiris" EntityType="Self.AdminGiris" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AlinanUrunler" EntityType="Self.AlinanUrunler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Faturalar" EntityType="Self.Faturalar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mesajlar" EntityType="Self.Mesajlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MusteriEkle" EntityType="Self.MusteriEkle" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda101" EntityType="Self.Oda101" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda102" EntityType="Self.Oda102" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda103" EntityType="Self.Oda103" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda104" EntityType="Self.Oda104" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda105" EntityType="Self.Oda105" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda106" EntityType="Self.Oda106" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda107" EntityType="Self.Oda107" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda108" EntityType="Self.Oda108" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda109" EntityType="Self.Oda109" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

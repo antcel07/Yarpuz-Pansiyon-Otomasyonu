@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.exe.config
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.exe
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.pdb
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.exe
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.pdb
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmYeniMusteri.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmAdminGiris.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmAnaForm.resources

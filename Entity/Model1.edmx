@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="YarpuzPansiyonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AdminGiris">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KullaniciAdi" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="Sifre" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="AlinanUrunler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Icecek" Type="int" />
+          <Property Name="Gida" Type="int" />
+          <Property Name="Cerezler" Type="int" />
+        </EntityType>
+        <EntityType Name="Faturalar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Elektrik" Type="int" />
+          <Property Name="Su" Type="int" />
+          <Property Name="Internet" Type="int" />
+        </EntityType>
+        <EntityType Name="Mesajlar">
+          <Key>
+            <PropertyRef Name="MesajId" />
+          </Key>
+          <Property Name="MesajId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AdSoyad" Type="varchar" MaxLength="50" />
+          <Property Name="Mesaj" Type="varchar" MaxLength="500" />
+        </EntityType>
+        <EntityType Name="MusteriEkle">
+          <Key>
+            <PropertyRef Name="MusteriId" />
+          </Key>
+          <Property Name="MusteriId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+          <Property Name="Cinsiyet" Type="varchar" MaxLength="5" />
+          <Property Name="Telefon" Type="varchar" MaxLength="15" />
+          <Property Name="Mail" Type="varchar" MaxLength="40" />
+          <Property Name="TC" Type="varchar" MaxLength="12" />
+          <Property Name="OdaNo" Type="varchar" MaxLength="5" />
+          <Property Name="Ucret" Type="int" />
+          <Property Name="GirisTarihi" Type="date" />
+          <Property Name="CikisTarihi" Type="date" />
+        </EntityType>
+        <EntityType Name="Oda101">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="30" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda102">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda103">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda104">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda105">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda106">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda107">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda108">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Oda109">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="varchar" MaxLength="20" />
+          <Property Name="Soyadi" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityContainer Name="YarpuzPansiyonModelStoreContainer">
+          <EntitySet Name="AdminGiris" EntityType="Self.AdminGiris" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="AlinanUrunler" EntityType="Self.AlinanUrunler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Faturalar" EntityType="Self.Faturalar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Mesajlar" EntityType="Self.Mesajlar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MusteriEkle" EntityType="Self.MusteriEkle" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda101" EntityType="Self.Oda101" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda102" EntityType="Self.Oda102" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda103" EntityType="Self.Oda103" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda104" EntityType="Self.Oda104" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda105" EntityType="Self.Oda105" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda106" EntityType="Self.Oda106" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda107" EntityType="Self.Oda107" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda108" EntityType="Self.Oda108" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Oda109" EntityType="Self.Oda109" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="YarpuzPansiyonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AdminGiris">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KullaniciAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Sifre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="AlinanUrunler">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Icecek" Type="Int32" />
+          <Property Name="Gida" Type="Int32" />
+          <Property Name="Cerezler" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Faturalar">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Elektrik" Type="Int32" />
+          <Property Name="Su" Type="Int32" />
+          <Property Name="Internet" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Mesajlar">
+          <Key>
+            <PropertyRef Name="MesajId" />
+          </Key>
+          <Property Name="MesajId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Mesaj" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="MusteriEkle">
+          <Key>
+            <PropertyRef Name="MusteriId" />
+          </Key>
+          <Property Name="MusteriId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Cinsiyet" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+          <Property Name="Telefon" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="Mail" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="TC" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Name="OdaNo" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+          <Property Name="Ucret" Type="Int32" />
+          <Property Name="GirisTarihi" Type="DateTime" Precision="0" />
+          <Property Name="CikisTarihi" Type="DateTime" Precision="0" />
+        </EntityType>
+        <EntityType Name="Oda101">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda102">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda103">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda104">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda105">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda106">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda107">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda108">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Oda109">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Soyadi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="YarpuzPansiyonEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AdminGiris" EntityType="Self.AdminGiris" />
+          <EntitySet Name="AlinanUrunler" EntityType="Self.AlinanUrunler" />
+          <EntitySet Name="Faturalar" EntityType="Self.Faturalar" />
+          <EntitySet Name="Mesajlar" EntityType="Self.Mesajlar" />
+          <EntitySet Name="MusteriEkle" EntityType="Self.MusteriEkle" />
+          <EntitySet Name="Oda101" EntityType="Self.Oda101" />
+          <EntitySet Name="Oda102" EntityType="Self.Oda102" />
+          <EntitySet Name="Oda103" EntityType="Self.Oda103" />
+          <EntitySet Name="Oda104" EntityType="Self.Oda104" />
+          <EntitySet Name="Oda105" EntityType="Self.Oda105" />
+          <EntitySet Name="Oda106" EntityType="Self.Oda106" />
+          <EntitySet Name="Oda107" EntityType="Self.Oda107" />
+          <EntitySet Name="Oda108" EntityType="Self.Oda108" />
+          <EntitySet Name="Oda109" EntityType="Self.Oda109" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="YarpuzPansiyonModelStoreContainer" CdmEntityContainer="YarpuzPansiyonEntities2">
+          <EntitySetMapping Name="AdminGiris">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.AdminGiris">
+              <MappingFragment StoreEntitySet="AdminGiris">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+                <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="AlinanUrunler">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.AlinanUrunler">
+              <MappingFragment StoreEntitySet="AlinanUrunler">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Icecek" ColumnName="Icecek" />
+                <ScalarProperty Name="Gida" ColumnName="Gida" />
+                <ScalarProperty Name="Cerezler" ColumnName="Cerezler" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Faturalar">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Faturalar">
+              <MappingFragment StoreEntitySet="Faturalar">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Elektrik" ColumnName="Elektrik" />
+                <ScalarProperty Name="Su" ColumnName="Su" />
+                <ScalarProperty Name="Internet" ColumnName="Internet" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Mesajlar">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Mesajlar">
+              <MappingFragment StoreEntitySet="Mesajlar">
+                <ScalarProperty Name="MesajId" ColumnName="MesajId" />
+                <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+                <ScalarProperty Name="Mesaj" ColumnName="Mesaj" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MusteriEkle">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.MusteriEkle">
+              <MappingFragment StoreEntitySet="MusteriEkle">
+                <ScalarProperty Name="MusteriId" ColumnName="MusteriId" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+                <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+                <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+                <ScalarProperty Name="Mail" ColumnName="Mail" />
+                <ScalarProperty Name="TC" ColumnName="TC" />
+                <ScalarProperty Name="OdaNo" ColumnName="OdaNo" />
+                <ScalarProperty Name="Ucret" ColumnName="Ucret" />
+                <ScalarProperty Name="GirisTarihi" ColumnName="GirisTarihi" />
+                <ScalarProperty Name="CikisTarihi" ColumnName="CikisTarihi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda101">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda101">
+              <MappingFragment StoreEntitySet="Oda101">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda102">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda102">
+              <MappingFragment StoreEntitySet="Oda102">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda103">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda103">
+              <MappingFragment StoreEntitySet="Oda103">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda104">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda104">
+              <MappingFragment StoreEntitySet="Oda104">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda105">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda105">
+              <MappingFragment StoreEntitySet="Oda105">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda106">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda106">
+              <MappingFragment StoreEntitySet="Oda106">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda107">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda107">
+              <MappingFragment StoreEntitySet="Oda107">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda108">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda108">
+              <MappingFragment StoreEntitySet="Oda108">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Oda109">
+            <EntityTypeMapping TypeName="YarpuzPansiyonModel.Oda109">
+              <MappingFragment StoreEntitySet="Oda109">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+                <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

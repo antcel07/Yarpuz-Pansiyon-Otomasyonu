@@ -1,0 +1,212 @@
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.exe.config
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.exe
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.pdb
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmAdminGiris.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmAnaForm.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmOdalar.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmYeniMusteri.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.exe
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.pdb
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmMusteriler.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.exe.licenses
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmGelirGider.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmStoklar.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.ResolveComReference.cache
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmRadyoDinle.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmGazeteler.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmSifreGuncelle.resources
+C:\Users\Lenovo\source\repos\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmMesajlar.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.exe.config
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.exe
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Yarpuz Pansiyon Uygulama.pdb
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.SqlServer.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraBars.v18.2.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Images.v18.2.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Data.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\EntityFramework.SqlServer.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraBars.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\DevExpress.Office.v18.2.Core.xml
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\Interop.WMPLib.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\bin\Debug\AxInterop.WMPLib.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.AssemblyReference.cache
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Interop.WMPLib.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\AxInterop.WMPLib.dll
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.ResolveComReference.cache
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmAdminGiris.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmAnaForm.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmGazeteler.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmGelirGider.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmMesajlar.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmMusteriler.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmOdalar.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmRadyoDinle.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmSifreGuncelle.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmStoklar.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.FrmYeniMusteri.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.Properties.Resources.resources
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.GenerateResource.cache
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.exe.licenses
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.CoreCompileInputs.cache
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz_Pansiyon_Uygulama.csproj.CopyComplete
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.exe
+E:\Yeni klasör\Yarpuz Pansiyon Uygulama\Yarpuz Pansiyon Uygulama\obj\Debug\Yarpuz Pansiyon Uygulama.pdb
